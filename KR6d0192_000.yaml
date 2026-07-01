@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0192/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華三昧行事運想補助儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1942.xml
+    old_id: T46n1942
+hash: sha256:c615491aa92725e90ee787a09003f29306184777b698d1490f3b628fc47e5602

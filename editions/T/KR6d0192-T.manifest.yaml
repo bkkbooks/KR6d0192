@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0192/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0192/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華三昧行事運想補助儀
+  identifiers:
+    krp: KR6d0192
+    cbeta: T46n1942
+    cbeta_old_id: T46n1942
+    authorityid: CA0000905
+    json_key: T1942
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1942.xml
+    old_id: T46n1942
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0192_000-T.yaml, hash: 'sha256:c615491aa92725e90ee787a09003f29306184777b698d1490f3b628fc47e5602'}
+  - {seq: 1, filename: KR6d0192_001-T.yaml, hash: 'sha256:48c9516bdc39e8de4f6946f103304e85af3b419eea97443df7b771f512ed3330'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0192_000-T.markers.yaml, hash: 'sha256:edcea841a7375e74a125b278655b96bdf7dab04e2145fc04a6506c389c7e8902'}
+  - {seq: 1, role: markers, filename: assets/KR6d0192_001-T.markers.yaml, hash: 'sha256:471146577cbf2c380d1596712c7111d6703004a90bd61632145a82dd13d40531'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0192_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1904
+  label: 法華三昧行事運想補助儀
+  type: juan
+  level: 1
+hash: sha256:add60e1e6558862b2528410b18e7f1fbe6fc48b2ecd2c5a459ac92ee7817beb7
