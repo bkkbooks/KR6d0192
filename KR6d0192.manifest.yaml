@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0192_000.yaml, hash: 'sha256:c615491aa92725e90ee787a09003f29306184777b698d1490f3b628fc47e5602'}
-  - {seq: 1, filename: KR6d0192_001.yaml, hash: 'sha256:4eb6c2a5911f9f46025e254d5903edb39839807496c24926c1d4e9400bb2b9a9'}
+  - {seq: 1, filename: KR6d0192_001.yaml, hash: 'sha256:48c9516bdc39e8de4f6946f103304e85af3b419eea97443df7b771f512ed3330'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0192_001.markers.yaml, hash: 'sha256:8eeef45941448eaa69616e4b732cd8fde7a79f781953f7d60376ec2d02675005'}
+  - {seq: 0, role: markers, filename: assets/KR6d0192_000.markers.yaml, hash: 'sha256:05f41caf7f0ff174dfaff1b9ad18cb9ed56d9deacf8a3529554ce36ca8b1e1ae'}
+  - {seq: 1, role: markers, filename: assets/KR6d0192_001.markers.yaml, hash: 'sha256:0dc91ee7e87a1a7becfec2dfb24d2eda551010bdaf3bc4cf4758651ad954e4e5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 法華三昧行事運想補助儀
   type: juan
   level: 1
-hash: sha256:7245e5466aa806f6529cf9d7fe2581114ec02f9ad6107a1165335891cbfe3506
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1dd89466c17dd82ad6b592169c550f478ab29a350a92997c6cb07b7423d28581
 editions:
 - short: T
